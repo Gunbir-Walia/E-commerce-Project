@@ -4,6 +4,43 @@
 ## Structure of Repository
 ```
 ├── ecommerce-backend
+│   ├── backend
+│   │   ├── cart.json
+│   │   ├── deliveryOptions.json
+│   │   ├── orders.json
+│   │   └── products.json
+│   ├── defaultData
+│   │   ├── defaultCart.js
+│   │   ├── defaultDeliveryOptions.js
+│   │   ├── defaultOrders.js
+│   │   └── defaultProducts.js
+│   ├── images
+│   │   ├── icons
+│   │   ├── products
+│   │   └── ratings
+│   ├── models
+│   │   ├── CartItem.js
+│   │   ├── DeliveryOption.js
+│   │   ├── Order.js
+│   │   ├── Product.js
+│   │   └── index.js
+│   ├── patches
+│   │   ├── sql.js-as-sqlite3+0.2.1.patch
+│   ├── routes
+│   │   ├── cartItems.js
+│   │   ├── deliveryOptions.js
+│   │   ├── orders.js
+│   │   ├── paymentSummary.js
+│   │   ├── products.js
+│   │   └── reset.js
+│   ├── .eslintignore
+│   ├── .eslintrc.json
+│   ├── .gitignore
+│   ├── documentation.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.js
+│   └── zipFiles.js
 ├── ecommerce-project
 │   ├── public
 │   │   ├── images
