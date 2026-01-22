@@ -135,7 +135,7 @@ The server will run on http://localhost:3000 and automatically seed the database
 <br>
 <br>
 
-**2) Starting the frontend Application -** Open a new terminal and navigate to the project directory. Then, start the Vite dev server:
+**2) Starting the frontend application -** Open a new terminal and navigate to the project directory. Then, start the Vite dev server:
 ```
 cd ecommerce-project
 npm install
