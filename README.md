@@ -142,3 +142,16 @@ npm install
 npm run dev
 ```
 The application will be accessible at http://localhost:5173.
+
+<br>
+<img width="1919" height="869" alt="Screenshot 2026-01-22 160247" src="https://github.com/user-attachments/assets/2b4bd545-5e42-4cc6-ade6-43b48f536f80" />
+<br>
+<br>
+<img width="1919" height="868" alt="Screenshot 2026-01-22 160331" src="https://github.com/user-attachments/assets/2b057135-7cf0-44c6-9e0d-31726954cf79" />
+<br>
+<br>
+<img width="1919" height="869" alt="Screenshot 2026-01-22 160408" src="https://github.com/user-attachments/assets/f3411fb7-f4ff-4e5e-8fff-d666ec2d1d0e" />
+<br>
+<br>
+<img width="1919" height="867" alt="Screenshot 2026-01-22 160453" src="https://github.com/user-attachments/assets/1a0ce224-66c4-4c55-baae-d602a8531ad6" />
+
