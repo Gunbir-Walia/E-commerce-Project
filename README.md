@@ -132,7 +132,8 @@ npm install
 npm start
 ```
 The server will run on http://localhost:3000 and automatically seed the database.
-
+<br>
+<br>
 
 2) **Starting the frontend Application -** Open a new terminal and navigate to the project directory. Then, start the Vite dev server:
 ```
