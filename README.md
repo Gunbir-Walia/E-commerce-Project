@@ -126,17 +126,17 @@ This project is a comprehensive full-stack e-commerce application developed to s
 This project consists of two parts: the Backend server and the Frontend application.
 
 1) **Starting the Backend -** Open the terminal in your IDE and navigate to the backend directory. Next, install the relevant dependencies and then start the backend server using the following code.
-`
+```
 cd ecommerce-backend
 npm install
 npm start
-`
+```
 The server will run on http://localhost:3000 and automatically seed the database.
 
 2) **Starting the frontend Application -** Open a new terminal and navigate to the project directory. Then, start the Vite dev server:
-`
+```
 cd ecommerce-project
 npm install
 npm run dev
-`
+```
 The application will be accessible at http://localhost:5173.
